@@ -6,13 +6,6 @@ I wanted to share my experience in doing coding challenges. For the past 6 years
 
 Hope it will be useful to you too!
 
-### 1.  Intro
-Do you have a coding interview ahead of you? Or you just want to fine-tune your technical interview?
-
-I wanted to share my experience in doing coding challenges. For the past 6 years, I have been applying to various companies from local startups to big companies like Amazon, I didn’t always get the job there but at some point, I started to gather the data and create the checklist that helps me these days when I’m applying for a job. 
-
-Hope it will be useful to you too!
-
 ### 2.  Types of Coding Challenges:
 
 <b>Time puzzle tasks</b> - The most “lazy” way of testing your coding knowledge by using websites such as HackerRank, LeetCode. The recruiter sends you a pre-prepared coding assignment in which you have a fixed amount of time to solve ex. 2h. Tasks are really general checking your overall knowledge but the clock that is ticking creates uncomfortable pressure. In the end, you send your solution which is checked by multiple test cases if you pass that then the developer is checking it. What it tells me about the company is that they didn’t really invest much time into a coding challenge.
